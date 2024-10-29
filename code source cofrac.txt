@@ -1,0 +1,1918 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+
+<head>
+    <base href="https://tools.cofrac.fr/site/content/french/pages/easysearch/">
+	
+    <meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="robots" content="ALL">
+<meta name="revisit-after" content="7 days">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta HTTP-EQUIV="Content-Language" CONTENT="fr, be, ca, lu, ch">
+<meta name="Identifier-URL" content="http://www.cofrac.fr">
+<meta name="author" content="www.microscopie.fr">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+
+
+
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="description" content="Nous évaluons compétence et impartialité des laboratoires et organismes de certification ou d'inspection, pour vous donner confiance dans leurs prestations." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="twitter:card" content="summary" />
+
+<link rel="stylesheet" href="https://www.cofrac.fr/typo3temp/assets/compressed/merged-f78f5de4a0d997b4ee57f37597b29fb9-b2f0656f3c79aed96e49d0d9a2f73ed0.css?1725463998" media="all">
+<link href="https://www.cofrac.fr/_assets/vite/assets/cofrac-DLlga6eL.css?1725463785" rel="stylesheet" >
+
+
+
+
+<!-- Matomo Tag Manager -->
+<script>
+ var _mtm = window._mtm = window._mtm || [];
+ _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+ (function() {
+   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+   g.async=true; g.src='https://cdn.matomo.cloud/cofrac.matomo.cloud/container_MDIiVah5.js'; s.parentNode.insertBefore(g,s);
+ })();
+</script>
+<!-- End Matomo Tag Manager -->
+<link rel="dns-prefetch" href="https://cofrac-corporateprod-resources-files.s3.amazonaws.com"><link rel="stylesheet" href="/site/need/css/cofrac_in.css?1715602258" type="text/css" media="all" />
+<title>Cofrac - Comité français d'accréditation</title>
+
+
+    <script type='text/javascript' src='/site/need/js/jquery.js'></script>
+	<script>
+	//var jCof = jQuery.noConflict();
+	var jCof = jQuery;
+	</script>
+
+    <script type='text/javascript' src='/site/need/js/jquery.vticker.js'></script>
+    <script type='text/javascript' src='/site/need/js/jquery.scroller.js'></script>
+    <script type='text/javascript' src='/site/need/js/jquery.modal.js'></script>
+    <script type='text/javascript' src='/site/need/js/browserDetection.js'></script>
+    <script src="/site/need/js/swfobject.js" type="text/javascript"></script>
+
+    <script language="javascript">
+        var file_exists =true;
+        var directory = "easysearch";
+        var path = "index_advanced.php";
+        var extra_parameters = "?pk_vid=ba233b1dcf8fb2521730196487db08ce";
+
+    </script>
+
+    <script type='text/javascript' src='/site/need/js/cofrac.js?1716995977'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56185047-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+
+       <!-- div id="pastille-20-ans"></div-->
+
+    <script type="text/javascript">
+
+function sendToParent(msg)
+{
+	
+}
+
+function sendHeight()
+{
+	
+}
+
+
+</script>
+<div class="layout layout-" id="p552">
+    <div>
+        <header id="header" role="banner" class="w-100">
+            <a class="skip-to-content visually-hidden-focusable" href="#content">Aller au contenu</a>
+            
+                
+    <div class="container layout-large py-1 py-lg-0">
+        <div class="row">
+            <div class="col-lg-1">
+                <a href="https://www.cofrac.fr/" target="_top" class="cofrac-logo logo-30y d-inline-flex position-absolute">
+                    <img alt=""
+                         src="https://www.cofrac.fr/_assets/vite/assets/logo-cofrac-30ans-EidNR0tp.svg" class="d-block"/>
+                </a>
+            </div>
+            <div class="col-lg-11 colMenu">
+                <nav class="navbar navbar-expand-lg py-0 my-0 justify-content-xxl-end">
+                    <button class="navbar-toggler order-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span> <span class="navbar-toggler-close-icon"></span>
+                    </button>
+                    <button class="btn search-menu px-2 order-2 order-lg-0" type="button" aria-controls="global-search"
+                            aria-expanded="false" aria-label="Toggle Global search">
+                        <i class="search-icon"></i>
+                    </button>
+                    <div class="collapse navbar-collapse navbar-nav-scroll justify-content-end order-3 order-lg-1 mt-0"
+                         id="navbarNav">
+                        <ul class="navbar-nav level1">
+                            
+                                <li class="nav-item width-computing-lg width-computing-xl dropdown">
+                                    
+    <a href="https://www.cofrac.fr/laccreditation" class="nav-link d-lg-flex align-items-center justify-content-center highlightMarker" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent" title="L&#039;accréditation">
+                                        <span>L&#039;accréditation</span>
+                                    </a>
+
+                                    
+                                        
+                                            
+    <div class="dropdown-menu highlightBloc">
+        
+            
+
+
+    <a href="https://www.cofrac.fr/laccreditation/tout-savoir-sur-laccreditation/accreditation-cofrac-cest-quoi" class="highlight mx-6 my-4 d-block" title="Tout savoir sur l&#039;accréditation">
+    
+            <img src="https://cofrac-corporateprod-resources-files.s3.amazonaws.com/cofrac-reunion-accreditation.jpg" width="1280" height="585" alt="" />
+        
+    <div class="tags">
+        <span class="tag">Nouveau !</span>
+    </div>
+    <p class="h2">Tout savoir sur l&#039;accréditation</p>
+</a>
+
+
+
+        
+        <ul class="dropdown-menu-start level2 list-unstyled">
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/laccreditation/decouvrir-laccreditation" class="dropdown-item d-block px-6 py-3" title="Découvrir l&#039;accréditation">
+                            Découvrir l&#039;accréditation
+                        </a>
+
+                    </li>
+                
+            
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/laccreditation/se-faire-accrediter-en-4-etapes/etape-1-avant-dengager-une-demande-daccreditation" class="dropdown-item d-block px-6 py-3" title="L&#039;accréditation en 4 étapes">
+                            L&#039;accréditation en 4 étapes
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/laccreditation/laccreditation-cofrac-a-letranger" class="dropdown-item d-block px-6 py-3" title="L&#039;accréditation Cofrac à l&#039;étranger">
+                            L&#039;accréditation Cofrac à l&#039;étranger
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/laccreditation/accreditation-certifications-labels-quelles-differences/cofrac-accreditation-et-certification-quelles-differences" class="dropdown-item d-block px-6 py-3" title="Accréditation, certifications, labels... Quelles différences ?">
+                            Accréditation, certifications, labels... Quelles différences ?
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/laccreditation/normes-et-referentiels" class="dropdown-item d-block px-6 py-3" title="Normes et référentiels">
+                            Normes et référentiels
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/laccreditation/faq/les-3-questions-les-plus-frequentes" class="dropdown-item d-block px-6 py-3" title="Questions fréquentes / FAQ">
+                            Questions fréquentes / FAQ
+                        </a>
+
+                    </li>
+                
+            
+        </ul>
+    </div>
+
+                                        
+                                    
+                                </li>
+                            
+                                <li class="nav-item width-computing-lg width-computing-xl dropdown">
+                                    
+    <a href="https://www.cofrac.fr/domaines-dapplication" class="nav-link d-lg-flex align-items-center justify-content-center" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent" title="Domaines d&#039;application">
+                                        <span>Domaines d&#039;application</span>
+                                    </a>
+
+                                    
+                                        
+                                            
+    <div class="dropdown-menu">
+        
+        <ul class="dropdown-menu-start level2 list-unstyled multiColumn">
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/validation-et-verification/validation-et-verification" class="dropdown-item d-block px-6 py-3" title="Validation et vérification">
+                            Validation et vérification
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/formation-professionnelle/formation-professionnelle" class="dropdown-item d-block px-6 py-3" title="Formation professionnelle">
+                            Formation professionnelle
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/tourisme-restauration-commerce-artisanat-et-loirsirs/certification-de-produits-et-services" class="dropdown-item d-block px-6 py-3" title="Tourisme, restauration, commerce artisanat et loirsirs">
+                            Tourisme, restauration, commerce artisanat et loirsirs
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/domaine-agricole-et-agroalimentaire/certification-de-systemes-de-management" class="dropdown-item d-block px-6 py-3" title="Agriculture et agroalimentaire">
+                            Agriculture et agroalimentaire
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/prevention-des-risques-et-des-nuisances/certification-de-produits-et-de-services" class="dropdown-item d-block px-6 py-3" title="Prévention des risques et des nuisances">
+                            Prévention des risques et des nuisances
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/efficacite-et-transition-energetique/certification-de-systemes-de-management" class="dropdown-item d-block px-6 py-3" title="Efficacité et transition énergétique">
+                            Efficacité et transition énergétique
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/securite-energetique/certification-de-systemes-de-management" class="dropdown-item d-block px-6 py-3" title="Sécurité énergétique">
+                            Sécurité énergétique
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/sante-et-action-sociale/certifications-de-produits-et-de-services" class="dropdown-item d-block px-6 py-3" title="Santé et action sociale">
+                            Santé et action sociale
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/politique-et-actions-publiques/inspection" class="dropdown-item d-block px-6 py-3" title="Politique et actions publiques">
+                            Politique et actions publiques
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/transport-logistique-et-infrastructure/certifications-de-produits-et-de-services" class="dropdown-item d-block px-6 py-3" title="Transport, logistique et Infrastructure">
+                            Transport, logistique et Infrastructure
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/securite-et-sante-au-travail/certifications-de-systemes-de-management" class="dropdown-item d-block px-6 py-3" title="Sécurité et santé au travail">
+                            Sécurité et santé au travail
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/eau-nature-et-biodiversite/certification-de-systemes-de-management" class="dropdown-item d-block px-6 py-3" title="Eau, nature et biodiversité">
+                            Eau, nature et biodiversité
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/etalonnage/etalonnage" class="dropdown-item d-block px-6 py-3" title="Etalonnage">
+                            Etalonnage
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/transition-numerique-et-cybersecurite/certifications-de-systemes-de-management" class="dropdown-item d-block px-6 py-3" title="Transition numérique et cybersécurité">
+                            Transition numérique et cybersécurité
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/systeme-de-management/systeme-de-management" class="dropdown-item d-block px-6 py-3" title="Système de management">
+                            Système de management
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/domaines-dapplication/metrologie-legale/metrologie-legale" class="dropdown-item d-block px-6 py-3" title="Métrologie légale">
+                            Métrologie légale
+                        </a>
+
+                    </li>
+                
+            
+        </ul>
+    </div>
+
+                                        
+                                    
+                                </li>
+                            
+                                <li class="nav-item width-computing-lg width-computing-xl dropdown">
+                                    
+    <a href="https://www.cofrac.fr/nos-services" class="nav-link d-lg-flex align-items-center justify-content-center" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent" title="Nos services">
+                                        <span>Nos services</span>
+                                    </a>
+
+                                    
+                                        
+                                            
+    <div class="dropdown-menu right">
+        
+        <ul class="dropdown-menu-start level2 list-unstyled">
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/nos-services/delivrer-des-accreditations-cofrac" class="dropdown-item d-block px-6 py-3" title="Délivrer des accréditations Cofrac">
+                            Délivrer des accréditations Cofrac
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/nos-services/developper-de-nouveaux-schemas-daccreditation/les-etapes" class="dropdown-item d-block px-6 py-3" title="Développer de nouveaux schémas d&#039;accréditation">
+                            Développer de nouveaux schémas d&#039;accréditation
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/nos-services/les-bonnes-pratiques-dexperimentation-bpe/les-bonnes-pratiques-dexperimentation-cest-quoi-au-juste" class="dropdown-item d-block px-6 py-3" title="Les &#039;Bonnes Pratiques d&#039;Expérimentation&#039; (BPE)">
+                            Les &#039;Bonnes Pratiques d&#039;Expérimentation&#039; (BPE)
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/nos-services/les-bonnes-pratiques-de-laboratoires-bpl/autorites-competentes-en-france" class="dropdown-item d-block px-6 py-3" title="Les &#039;Bonnes Pratiques de Laboratoires&#039; (BPL)">
+                            Les &#039;Bonnes Pratiques de Laboratoires&#039; (BPL)
+                        </a>
+
+                    </li>
+                
+            
+        </ul>
+    </div>
+
+                                        
+                                    
+                                </li>
+                            
+                                <li class="nav-item width-computing-lg width-computing-xl dropdown">
+                                    
+    <a href="https://www.cofrac.fr/a-propos-du-cofrac" class="nav-link d-lg-flex align-items-center justify-content-center" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent" title="Le Cofrac">
+                                        <span>Le Cofrac</span>
+                                    </a>
+
+                                    
+                                        
+                                            
+    <div class="dropdown-menu highlightBloc right">
+        
+            
+
+
+    <a href="https://www.cofrac.fr/a-propos-du-cofrac/decouvrir-le-cofrac/notre-mission" class="highlight mx-6 my-4 d-block" title="Découvrir le Cofrac">
+    
+            <img src="https://cofrac-corporateprod-resources-files.s3.amazonaws.com/portrait-inspection.jpg" width="2800" height="4198" alt="" />
+        
+    <div class="tags">
+        <span class="tag">Nouveau !</span>
+    </div>
+    <p class="h2">Découvrir le Cofrac</p>
+</a>
+
+
+
+        
+        <ul class="dropdown-menu-start level2 list-unstyled">
+            
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/a-propos-du-cofrac/organisation/section-certifications" class="dropdown-item d-block px-6 py-3" title="Organisation">
+                            Organisation
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/a-propos-du-cofrac/adherer-au-cofrac" class="dropdown-item d-block px-6 py-3" title="Adhérer au Cofrac">
+                            Adhérer au Cofrac
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/laccreditation/laccreditation-cofrac-a-letranger-1" class="dropdown-item d-block px-6 py-3" title="Quelles garanties de reconnaissance à l&#039;international ?">
+                            Quelles garanties de reconnaissance à l&#039;international ?
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/a-propos-du-cofrac/declaration-du-directeur-general" class="dropdown-item d-block px-6 py-3" title="Déclaration du Directeur Général">
+                            Déclaration du Directeur Général
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://recrutement.cofrac.fr/" class="dropdown-item d-block px-6 py-3" target="_blank" title="Recrutement (nouvelle fenêtre)">
+                            Recrutement
+                        </a>
+
+                    </li>
+                
+            
+        </ul>
+    </div>
+
+                                        
+                                    
+                                </li>
+                            
+                                <li class="nav-item width-computing-lg width-computing-xl dropdown">
+                                    
+    <a href="https://www.cofrac.fr/actualites" class="nav-link d-lg-flex align-items-center justify-content-center" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent" title="Actualités et évènements">
+                                        <span>Actualités et évènements</span>
+                                    </a>
+
+                                    
+                                        
+                                            
+    <div data-highlight-url="https://www.cofrac.fr/actualites/mise-en-avant" class="dropdown-menu right">
+        
+        <ul class="dropdown-menu-start level2 list-unstyled">
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/actualites-et-evenements" class="dropdown-item d-block px-6 py-3" title="Actualités et évènements">
+                            Actualités et évènements
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/la-voix-de-laccreditation" class="dropdown-item d-block px-6 py-3" title="Podcast - La Voix de l&#039;Accréditation">
+                            Podcast - La Voix de l&#039;Accréditation
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/le-magazine-competences" class="dropdown-item d-block px-6 py-3" title="Le magazine Compétences">
+                            Le magazine Compétences
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/newsletters-certifinfos-et-sh-news/certinfo-la-newsletter-de-la-section-certifications" class="dropdown-item d-block px-6 py-3" title="Newsletters : Certif&#039;Info et SH News">
+                            Newsletters : Certif&#039;Info et SH News
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/publications" class="dropdown-item d-block px-6 py-3" title="Publications">
+                            Publications
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/videos" class="dropdown-item d-block px-6 py-3" title="Vidéos">
+                            Vidéos
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/des-histoires-a-partager" class="dropdown-item d-block px-6 py-3" title="Des histoires à partager">
+                            Des histoires à partager
+                        </a>
+
+                    </li>
+                
+            
+                
+                    <li class="nav-item m-0">
+                        
+    <a href="https://www.cofrac.fr/actualites/espace-presse" class="dropdown-item d-block px-6 py-3" title="Espace Presse">
+                            Espace Presse
+                        </a>
+
+                    </li>
+                
+            
+        </ul>
+    </div>
+
+                                        
+                                    
+                                </li>
+                            
+                                <li class="nav-item width-computing-lg width-computing-xl">
+                                    
+    <a href="https://tools.cofrac.fr/fr/documentation" class="nav-link d-lg-flex align-items-center justify-content-center" target="_blank" title="Espace documentaire (nouvelle fenêtre)">
+                                        <span>Espace documentaire</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                        </ul>
+                    </div>
+                    
+                        <div class="lang dropdown order-1 order-lg-2">
+                            <button class="dropdown-toggle nav-link text-uppercase" type="button" data-bs-toggle="dropdown"
+                                    data-bs-auto-close="true" data-bs-reference="parent" aria-expanded="false"
+                                    aria-label="Choisissez une langue">
+                                FR
+                            </button>
+                            <ul class="dropdown-menu">
+                                
+                                    <li class="dropdown-item">
+                                        
+                                                <a href="https://www.cofrac.fr/" hreflang="fr"
+                                                   class="dropdown-item nav-link text-uppercase"
+                                                   title="Français"> <span>FR</span> </a>
+                                            
+                                    </li>
+                                
+                                    <li class="dropdown-item">
+                                        
+                                                <a href="https://www.cofrac.fr/en/" hreflang="en"
+                                                   class="dropdown-item nav-link text-uppercase"
+                                                   title="English"> <span>EN</span> </a>
+                                            
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    
+                    <div class="client-space order-4 order-lg-3">
+                        <a href="https://cofracandco.cofrac.fr/login" title="Connexion (nouvelle fenêtre)" target="_blank" class="btn btn-primary btn-connect btn-sm d-flex gap-1 align-items-center justify-content-center" rel="noreferrer">
+                            Connexion
+                        </a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+            
+        </header>
+        <main>
+            
+<div class="overlay-search container" id="global-search">
+    <div class="overlay-search__inner"></div>
+    <div class="overlay-search__box d-flex flex-column align-items-center">
+        
+	
+    <div class="tx-solr-search-form overlay-search__input">
+        <form method="get" id="tx-solr-search-form-pi-results" action="https://www.cofrac.fr/recherche" data-suggest="https://www.cofrac.fr/recherche?type=7384" data-suggest-header="Premiers résultats" accept-charset="utf-8">
+            <fieldset class="elements-filters filter-search">
+                <div class="form-group position-relative">
+                    
+                    
+                    <label for="search">Critère de recherche</label>
+                    <input type="search" id="search"
+                           class="js-solr-q tx-solr-suggest form-control position-relative"
+                           name="tx_solr[q]" value="" placeholder="Critère de recherche" required/>
+                    <button class="btn btn-primary search__submit p-0">
+                        <span class="label d-lg-none d-inline">Recherche</span>
+                        <span class="arrow-right d-none d-lg-block"></span>
+                    </button>
+                </div>
+            </fieldset>
+        </form>
+        <p class="m-1 pe-3 d-none d-lg-block">Pour toute recherche de documents, rendez-vous dans l'<a href="https://tools.cofrac.fr/fr/documentation" target="_blank" rel="noreferrer">Espace documentaire</a></p>
+    </div>
+
+
+        <button type="button" class="btn-close btn-close-white d-none d-lg-block" aria-label="Fermer"></button>
+    </div>
+</div>
+
+
+            
+            <div id="content"></div>
+            
+    <div class="container main-content">	<div id="container">
+	<div id="top-links" style="display:none;">
+		<a href="/fr/accreditation/">L'accréditation</a>
+		<a href="/fr/cofrac">Le Cofrac</a>
+		<a href="/fr/activites/">Domaines d'activités</a>
+		<a href="/fr/developpements/">Développements</a>
+		<a href="/fr/contact/">Contactez-nous</a>
+		<div class="clear"></div>
+	</div>
+
+
+
+    <div id="content">
+
+        
+
+<script language=javascript>
+	var FIND_TEXT="";
+	var KEYWORDS_TEXT="...";
+
+	function onsubmit_keywords_search () {
+		var s=jCof('#keywords').val();
+		var periode=jCof('#periode').val();
+		if (periode==null) periode=-1;
+		if (s.length==0 && periode==-1) {
+			jCof('#zone-error').css('top','-2px').click( function () {jCof(this).hide();}).show();
+			jCof('#zone-error .content').html('Veuillez entrer une chaîne de recherche.');
+			return false;
+		}
+		var z_documentation=jCof('#zone_documentation').attr('checked');
+		var z_pages=jCof('#zone_pages').attr('checked');
+		var z_annexes=jCof('#zone_annexes').attr('checked');
+		var z_evaluateurs=jCof('#zone_evaluateurs').attr('checked');
+		if (!z_documentation && !z_pages && !z_annexes && !z_evaluateurs) {
+			jCof('#zone-error').css('top','50px').click( function () {jCof(this).hide();}).show();
+			jCof('#zone-error .content').html('Veuillez sélectionner au moins une zone de recherche.');
+			return false;
+		}
+		return true;
+	}
+
+	function onsubmit_organismes_search () {
+		var s=jCof('#input_organisme').val();
+		if (s==FIND_TEXT) s='';
+		var zone_nom=jCof('#radio_nom').attr('checked')==true;
+		var zone_domaine=jCof('#radio_domaine').attr('checked')==true;
+		var zone_annexes=jCof('#radio_annexes').attr('checked')==true;
+		var zone_accreditation=jCof('#radio_accreditation').attr('checked')==true;
+		var zone_programme=jCof('#radio_programme').attr('checked')==true;
+		if (s.length<3 && (zone_nom || zone_annexes || zone_accreditation)) {
+			jCof('#zone-error-organismes').css('top','-2px').click( function () {jCof(this).hide();}).show();
+			if (zone_nom) jCof('#zone-error-organismes .content').html('Veuillez entrer un nom d\'organisme (3 cars. minimum).');
+			if (zone_accreditation) jCof('#zone-error-organismes .content').html('Veuillez entrer un n° d\'accré- ditation (3 cars. minimum).');
+			if (zone_annexes) jCof('#zone-error-organismes .content').html('Veuillez entrer une chaîne de recherche (3 cars. minimum).');
+			return false;
+		}
+
+		if (s.length==0 && zone_programme) {
+			jCof('#zone-error-organismes').css('top','-2px').click( function () {jCof(this).hide();}).show();
+			jCof('#zone-error-organismes .content').html('Veuillez entrer un n° de programme.');
+			return false;
+		}
+
+		jCof('#form_organismes').attr('action','/fr/organismes');
+		if (zone_accreditation) {
+			jCof('#form_organismes').attr('action','/fr/organismes/fiche.php');
+		}
+
+		s=s.replace(/"/gi,'');
+		jCof('#input_organisme').val(s);
+		return true;
+	}
+
+	function onclick_domaine() {
+		jCof('#input_organisme').val('');
+		jCof('#form_organismes').submit();
+	}
+
+	jCof('document').ready(function() {
+		if (jCof('#radio_domaine').attr('checked')) jCof('#input_organisme').val(FIND_TEXT);
+
+	});
+
+</script>
+
+
+        
+            <div id="col-main">
+                <div class="col-center-block"><span class="corners-top"><span></span></span>
+                    <div class="col-main-menu"><div class="link-page">Votre recherche</div>
+<div id=result_tools><br/>
+<table class=menu>
+<tr><td><img border=0 src="/site/need/css/images/col-left/perma-link.png"/></td><td>
+<a onclick="creePermalien()" href="javascript:void(0);" class=menugauche>
+Créer un lien permanent</a></td></tr>
+
+<!--tr><td><img border=0 src="/site/need/css/images/col-left/send-mail.png"/></td><td>
+<a onclick="sendByMail()" href="javascript:void(0);"  class=menugauche>
+Envoyer par mail</a><br/></td></tr-->
+<tr><td><img border=0 src="/site/need/css/images/col-left/print-results.png"/></td><td>
+<a onclick="printResults()" href="javascript:void(0);"  class=menugauche>
+Imprimer</a></td></tr>
+</table>
+
+<div id=recap_recherche style="width:160px;"></div>
+</div>
+<br/>
+<div id=result_recherche_bloc>
+<div class="link-page">Résultats de votre recherche</div>
+<div id=countparsect style="width:160px;" class=coupemotlong></div><br/>
+<a id=nouv_recherche style="text-align:center;	margin:3px; padding:2px;" class=btn_menu href="/fr/easysearch">Nouvelle recherche</a>
+</div>
+
+<br/>
+<div id=valide_recherche style="display:none;text-align:center;" class=btn_menu onclick="valideRecherche();return false;"> 
+<font color="#004494">Actualiser les résultats</font>
+</div>
+<br/>
+<div id=back_recherche style="display:none;text-align:center;" class=btn_menu onclick="backRecherche();return false;"> 
+Modifier votre recherche
+</div>
+<div id=modif_recherche style="display:none;text-align:center;" class=btn_menu onclick="modifRecherche();return false;"> 
+Nouvelle recherche
+</div>
+<div id="confirm-permalink">
+    <div class="inside"></div>
+    <div>
+        <center><a class="small-button btnok" onclick="creePermalien0();" href="javascript:void(0);">OK</a> <a class="simplemodal-close small-button" href="#">Fermer</a></center>
+    </div>
+</div>
+</div><div class="col-main-content besides-menu"><style type="text/css">
+#divrrs {
+	margin: 10px 0 10px 0;
+	}
+#divrrs a {
+	background-color:inherit; 
+	}
+</style>
+<script type='text/javascript' src='/site/need/js/webthemas.js?1730185528'></script>
+<script language=javascript>	
+	var MAX_SELECTED=5;
+	var _THEMES={};
+	var _CONDS={};
+	var _LIBELS=[];
+	var _lastModified=0;
+	var _lastCalculated=0;
+	var _startDomaine=true;
+	var _geogr=1;
+
+
+function afficheResultats() {
+	jCof("#saved_allblocks").val(jCof("#allblocks").html());
+
+	jCof("#saved_affresult").val(jCof("#affresult").html());
+	var jsVars={};
+	jsVars["_THEMES"]=_THEMES;
+	jsVars["_CONDS"]=_CONDS;
+	jsVars["_LIBELS"]=_LIBELS;	
+	jsVars["_geogr"]=_geogr;
+	var ets=[];
+	for (var i=1;i<=4;i++) {
+		var rbET=jCof("#rbET_"+i+"_2");
+		if (rbET.length>0 && rbET.is(":checked")) ets.push(1);
+		else ets.push(0);
+		}
+	jsVars["ETS"]=ets;
+
+	jCof("#saved_vars").val(JSON.stringify(jsVars));
+
+	var ids={};
+	var ets={};
+	var others=['',''];
+	var cpt=getAfficheParameters(ids,ets,others);
+	var acti=others[0];
+	var regcode=others[1];
+
+	jCof("#aff_ets").val(JSON.stringify(ets));
+	jCof("#aff_ids").val(JSON.stringify(ids));
+	jCof("#aff_acti").val(acti);
+	jCof("#aff_regcode").val(regcode);
+
+
+	var t = '<h1>Chargement en cours...</h1>';
+    jCof('#alert-inside').html(t);
+    jCof('#alert').modal();
+	jCof("#form_resultats")[0].submit();
+	}
+
+
+function getAfficheParameters(ids,ets,others) {
+	var cpt=0;
+	for (prop in _THEMES) {
+		var niv=prop.split('_')[1];
+		var sels=getSelectedCodesRes(niv);
+		if (sels!="") {
+			cpt++;
+			ids[prop]=sels;
+			var rbET=jCof("#rbET_"+niv+"_2");
+			if (rbET.length>0 && rbET.is(":checked")) ets[prop]="1";
+			else ets[prop]="0";
+			}
+		}
+	var activ=jCof("#activite").val();
+	others[0]=activ.split('|')[0];
+					
+	var geogr=activ.split('|')[1];						
+	others[1]=-1;
+	if (geogr==1) others[1]=jCof("#choose_reg_code").val();
+
+	return cpt;
+
+	}
+
+function afficheNbResultats() {
+	if (_lastModified>_lastCalculated) {
+		_lastCalculated=_lastModified;
+		var ids={};
+		var ets={};
+		var others=['',''];
+		var cpt=getAfficheParameters(ids,ets,others);
+		var acti=others[0];
+		var regcode=others[1];
+
+		if (cpt>0) {
+			var datas="acti="+acti+"&regcode="+regcode+"&ids="+encodeURIComponent(JSON.stringify(ids))+"&ets="+encodeURIComponent(JSON.stringify(ets));
+			jQuery.ajax({
+				type: 'POST',
+				url: '/site/content/french/pages/easysearch/ajax/get_resultats.php',
+				data: datas,
+				async: true,
+				dataType: "text",
+				success: function (reps) {
+					var rept=eval("(" + reps + ")");
+					if (rept["code"]>=0) {
+						var nbres=rept["nb"];
+						var msg=nbres+" Résultat"+(nbres>1?"s":"");
+						jCof("#nbres").text(msg);
+						if (nbres>0) jCof("#affresult .advanced-button").show();
+//						else jCof("#affresult .advanced-button").hide();
+						jCof("#affresult").show();
+						}
+					}
+				});
+			}
+		else jCof("#affresult").hide();			
+		}
+	}
+
+
+	function getSelectedCodes(niv) {
+		var retour='';
+		jCof("#level_"+niv+" div.selected").each(function(index,value) {
+			var idx=jCof(this).attr("id").split('_')[2];
+			if (jCof(this).css('visibility')=='visible' || jCof(this).css('visibility')=='inherit') {
+				var idt=_THEMES["niv_"+niv][idx].id;
+				if (retour!='') retour+=',';
+				retour+=idt;
+				}
+			});
+		return retour;
+		}
+
+	function getSelectedCodesRes(niv) {
+		var retour='';
+		jCof("#level_"+niv+" div.selected").each(function(index,value) {
+			var idx=jCof(this).attr("id").split('_')[2];
+			if (jCof(this).css('visibility')=='visible' || jCof(this).css('visibility')=='inherit') {
+				var idt=String(_THEMES["niv_"+niv][idx].id);
+				if (retour!='') retour+='|';
+				if (idt.indexOf(',')>=0) retour+='('+idt+')';
+				else retour+=idt;
+				}
+			});
+		return retour;
+		}
+
+	function getSelectedLibs(niv) {
+		var retour='';
+		jCof("#level_"+niv+" div.selected").each(function(index,value) {
+			if (jCof(this).css('visibility')=='visible' || jCof(this).css('visibility')=='inherit') {
+				if (retour!='') retour+='|';
+				var txt=jCof(this).html();
+				var posi=txt.indexOf(')');
+				txt=txt.substr(posi+2);
+				retour+="~"+txt;
+				}
+			});
+		return retour;
+		}
+
+	
+	function getIdPos(niv,id) {
+		var theme=_THEMES["niv_"+niv];
+		var posi=-1;
+		if (id>0 && typeof(theme)!="undefined") {
+			id=','+id+',';
+			for (var i=0;i<theme.length;i++) {
+				var ids=','+theme[i].id+',';
+				if (ids.indexOf(id)>=0) {
+					posi=i;
+					break;
+					}
+				}
+			}
+		return posi;
+		}
+
+	function themeReload(niv,themes,conds,testini) {
+		var div0=jCof("#level_"+niv).parent().parent();
+		var theme=themes["niv_"+niv];
+		if (typeof(theme)=='undefined') {
+			themeErase(niv);
+			return;
+			}
+		_THEMES["niv_"+niv]=[];
+		if (conds==null) _CONDS["niv_"+niv]="";
+		else _CONDS["niv_"+niv]=conds["niv_"+niv];
+		var lastlib='';
+		var numTheme=-1;
+		for (var t=0;t<theme.length;t++) {
+			if (theme[t].lib!=lastlib) {
+				numTheme++;
+				_THEMES["niv_"+niv][numTheme]=theme[t];							
+				}
+			else {
+				_THEMES["niv_"+niv][numTheme].nb+=theme[t].nb;
+				_THEMES["niv_"+niv][numTheme].id+=','+theme[t].id;
+				}
+			lastlib=theme[t].lib;
+			}
+		var html_niv='';
+		for (var t=0;t<_THEMES["niv_"+niv].length;t++) {
+			var them=_THEMES["niv_"+niv][t];
+			html_niv+="<div class=\"thema";
+			if (them.nb==0) html_niv+=" vide";
+			html_niv+="\" id=the_"+niv+"_"+t+"><div class=\"nbtheme\">("+them.nb+")</div>" + jCof("<p/>").text(them.lib||'').html() + "</div>";
+			}
+			
+		jCof("#level_"+niv).html(html_niv);
+		div0.show();
+		jCof(".thema").unbind("click",clickThema);
+		jCof(".thema").click(clickThema);
+
+		if (testini) {
+			if (themes_ini[niv-1].length>0) {
+				for (var k=0;k<themes_ini[niv-1].length;k++) {
+					var posi=getIdPos(niv,themes_ini[niv-1][k]);
+					if (posi>=0) {
+						jCof("#the_"+niv+"_"+posi).addClass("selected");
+						}
+					}
+				themes_ini[niv-1]=[];
+				clickThema0(niv);
+				}			
+			}
+		}
+
+	function themeErase(niv) {
+		var div0=jCof("#level_"+niv).parent().parent();
+		jCof("#level_"+niv).html('');
+		delete _THEMES["niv_"+niv];
+		delete _CONDS["niv_"+niv];
+		div0.hide();
+		}
+
+	
+	function clickThema(event) {
+
+
+		var level=jCof(event.target).closest(".levelblockinside").attr("id").split("_")[1];	
+		var selCodes=jCof.trim(getSelectedCodesRes(level));
+		var nbSelected=0;
+		if (selCodes!='') nbSelected=selCodes.split("|").length;
+
+		var themeTargeted=jCof(event.target).closest("div.thema");
+
+		if (themeTargeted.hasClass('selected')) nbSelected--;else nbSelected++;
+		
+		if (nbSelected>MAX_SELECTED) {
+            t = '<h1>Vous ne pouvez-pas sélectionner plus de '+MAX_SELECTED+' options par bloc !</h1>';
+            jCof('#confirm-inside').html(t);
+            jCof('#confirm').modal();
+			}
+		else {
+			if (themeTargeted.hasClass('selected')) themeTargeted.removeClass('selected');
+			else themeTargeted.addClass('selected');		
+			clickThema0(level);
+			}
+		}
+
+
+	function checkVisibles(acti,level) {
+		if (typeof(_webthemas[acti]!='undefined') && ((level<=2 && _startDomaine) || (level>=3 && !_startDomaine))) {
+			var lev0=3;
+			var niv0=1;
+			if (level==1||level==2) {lev0=1;niv0=3;}
+
+			var thems=_webthemas[acti];
+			var sels1=getSelectedCodes(lev0);
+			if (sels1!='') sels1=sels1.split(',');else sels1=[];
+			var lng1=sels1.length;
+			var sels2='';
+			if (level==2) sels2=getSelectedCodes(lev0+1);
+			if (sels2!='') sels2=sels2.split(',');else sels2=[];
+			var lng2=sels2.length;
+			for (var niv=niv0;niv<=niv0+1;niv++) {
+				var div0=jCof("#level_"+niv).parent().parent();
+				if (div0.is(':visible')) {
+					var them=_THEMES["niv_"+niv];
+					for (var t=0;t<them.length;t++) {
+						var bVisible=false;
+						var divt=jCof("#the_"+niv+"_"+t);
+						if (lng1==0) bVisible=true;
+						else {							
+							var ids=(them[t].id+'').split(',');
+							if (lng2==0) {
+								for (var j=0;j<ids.length;j++) {
+									for (var k=0;k<sels1.length;k++) {
+										for (var m=0;m<thems.length;m++) {
+											if (thems[m][lev0-1]==sels1[k] && thems[m][niv-1]==ids[j]) {bVisible=true;break;}
+											}
+										if (bVisible) break;
+										}
+									if (bVisible) break;
+									}
+								}
+							else {
+								for (var j=0;j<ids.length;j++) {
+									for (var k=0;k<sels1.length;k++) {
+										for (var m=0;m<thems.length;m++) {
+											if (thems[m][lev0-1]==sels1[k] && thems[m][lev0]==0 && thems[m][niv-1]==ids[j]) {bVisible=true;break;}
+											}
+										if (bVisible) break;
+										}
+									if (bVisible) break;
+									}
+
+								if (!bVisible) {
+									for (var j=0;j<ids.length;j++) {
+										for (var k=0;k<sels2.length;k++) {
+											for (var m=0;m<thems.length;m++) {
+												if (thems[m][lev0]==sels2[k] && thems[m][niv-1]==ids[j]) {bVisible=true;break;}
+												}
+											if (bVisible) break;
+											}
+										if (bVisible) break;
+										}
+									}
+								}
+							}
+						if (bVisible) divt.show();else {divt.hide();divt.removeClass('selected');}
+						}
+					}
+				}
+			}
+		}
+
+	function clickThema0(level) {
+		var lib3=_LIBELS["niv_3"];
+		var first3=lib3["lib_showfirst"];
+		if (first3) {
+			if (getSelectedCodes(3)=='' && level==1) _startDomaine=true;
+			else if (getSelectedCodes(1)=='' && level==3) _startDomaine=false;
+			}
+		var activ=jCof("#activite").val();
+		var acti=activ.split('|')[0];
+		var geogr=activ.split('|')[1];						
+		var regcode=-1;
+		if (geogr==1) regcode=jCof("#choose_reg_code").val();
+		if (level!=4) {
+			if (level!=2 || (typeof(lib3)!="undefined" && first3==0)) {
+				var lib4=(typeof(_LIBELS["niv_4"])!='undefined')?1:0;
+				if (level!=3 || lib4) {
+					var ids1='';
+					var ids=getSelectedCodes(level);
+					if (level==2) ids1=getSelectedCodes(1);
+					if (ids!='' || (level==2 && first3==0 && ids1!='')) {
+						var ctx={};
+						ctx.level=level;
+						ctx.lib4=lib4;
+						ctx.first3=first3;
+						ctx.geogr=activ.split('|')[1];
+						jQuery.ajax({
+							type: 'POST',
+							url: '/site/content/french/pages/easysearch/ajax/load_theme.php',
+							data: "acti="+acti+"&regcode="+regcode+"&level="+level+"&ids="+encodeURIComponent(ids)+"&ids1="+encodeURIComponent(ids1)+"&f3="+first3+"&lib4="+lib4,
+							async: true,
+							dataType: "text",
+							context:ctx,
+							success: function (reps) {
+								var rept=eval("(" + reps + ")");
+								if (rept["code"]>=0) {
+									var themes=rept["themes"];
+									var conds=rept["conds"];
+									if (this.level==1) {					
+										themeReload(2,themes,conds,true);
+										if (this.first3==0) {
+											themeReload(3,themes,conds,true);
+											themeErase(4);
+											}
+										}
+									else if (this.level==2) {
+										if (this.first3==0) {
+											themeReload(3,themes,conds,true);
+											themeErase(4);
+											}
+										}
+									else if (this.level==3) {
+										themeReload(4,themes,conds,true);
+										}
+									}
+								_lastModified++;
+								}
+							});
+						}
+					else { 
+						if (level==1) {
+							themeErase(2);
+							if (first3==0) {themeErase(3);themeErase(4);}
+							}
+						if (level==2) {
+							if (first3==0) {themeErase(3);themeErase(4);}
+							}
+						if (level==3) {
+							themeErase(4);
+							}
+						_lastModified++;
+						}
+					}
+				else _lastModified++;
+				}
+			else _lastModified++;
+			}
+		else _lastModified++;		
+		if (first3) checkVisibles(acti,level);
+		}
+
+
+	function changeActivite() {
+		var activ=jCof("#activite").val();
+		if (activ!="") {
+			jCof("#divrrs").hide();
+			var acti=activ.split('|')[0];
+			var ctx={};
+
+			var geogr=activ.split('|')[1];			
+			ctx.geogr=geogr;
+			var regcode=-1;
+			if (geogr==1) regcode=jCof("#choose_reg_code").val();
+			jCof("#allblocks").hide();
+			jQuery.ajax({
+				type: 'POST',
+				url: '/site/content/french/pages/easysearch/ajax/load_activite.php',
+				data: "acti="+acti+"&regcode="+regcode,
+				async: true,
+				dataType: "text",
+				context:ctx,
+				success: function (reps) {
+					jCof(".levelblock").parent().hide();
+					var rept=eval("(" + reps + ")");
+					if (rept["code"]>=0) {
+						var nblibs=rept["libs"].length;
+						var themes=rept["themes"];
+						var libels=rept["libs"];
+						_THEMES={};
+						_CONDS={};
+						_LIBELS={};
+						for (var i=0;i<nblibs;i++) {
+							var obj=rept["libs"][i];
+							var niv=obj["lib_niveau"];
+							var div0=jCof("#level_"+niv).parent().parent();
+							
+							var undesdom='rechercher un organisme accrédité sur au moins un';
+							var touslesdom='rechercher un organisme accrédité sur tou';							
+							var txt="Choisissez un";
+
+							var lib=obj["lib_libelle"];
+
+							var mots=lib.split(' ');														
+							var lastc=mots[0].slice(-1);
+							if (lastc!='s' && lastc!='x') {
+								mots[0]=mots[0]+"s";
+								lib=mots.join(" ");
+								}
+							else if (mots.length>1) {
+								lastc=lib.slice(-1);
+								if (lastc!='s' && lastc!='x') lib=lib+"s";
+								}
+							
+
+
+							if (obj["lib_genre"]=="F") {
+								txt+="e";
+								undesdom=undesdom+"e des "+lib.toLowerCase()+" sélectionnées";
+								touslesdom=touslesdom+"tes les "+lib.toLowerCase()+" sélectionnées";
+								}
+							else {
+								undesdom=undesdom+" des "+lib.toLowerCase()+" sélectionnés";
+								touslesdom=touslesdom+"s les "+lib.toLowerCase()+" sélectionnés";
+								}
+
+							
+							txt+=" ou plusieurs "+lib.toLowerCase();
+
+							//var html="<h2 class=lib>"+jCof("<p/>").text(txt).html()+"</h2>"+jCof("<p/>").text(obj["lib_note"]||'').html();
+							var html='';
+							var libnote=jCof.trim(obj["lib_note"]||'');
+							if (libnote!="")
+								html="<h2 class=\"lib has-tooltip\">" + jCof("<p/>").text(txt).html()+"<div class=tooltip><div class=arrow></div>"+jCof("<p/>").text(libnote).html()+"</div></h2>";
+							else html="<h2 class=lib>"+jCof("<p/>").text(txt).html()+"</h2>";
+
+							var etChoix=obj["lib_et"]||0;
+							if (etChoix!=0) {
+								var checkUn=' checked';var checkTous='';
+								if (typeof(ets_ini['niv_'+niv])!='undefined' && ets_ini['niv_'+niv]==1) 
+									{checkUn='';var checkTous=' checked';}
+								html+="<div class=rbET><input type=radio name=rbET_"+niv+" id=rbET_"+niv+"_1"+checkUn+"><label for=rbET_"+niv+"_1> "+undesdom+"</label><br/><input type=radio name=rbET_"+niv+" id=rbET_"+niv+"_2"+checkTous+"><label for=rbET_"+niv+"_2> "+touslesdom+"</label></div>";
+								}
+
+							if (this.geogr!=0) jCof("#filtregeo").show();else jCof("#filtregeo").hide();
+							_geogr=this.geogr;
+
+							div0.find(".leveldesc").html(html);
+							var niv=obj["lib_niveau"];
+							_LIBELS["niv_"+niv]=obj;
+							if (obj["lib_showfirst"]!=0) {
+								themeReload(niv,themes,null,false);
+								}
+							else div0.hide();
+							}
+						jCof(".rbET input").change(function() {_lastModified++;});
+								// Présélectionner s'il est unique
+						if (_THEMES["niv_1"].length==1 && acti_ini=='')  {
+							jCof("#level_1 div.thema").addClass('selected');
+							clickThema0(1);
+							}						
+						}
+					
+					if (acti_ini!="") {
+						for(var them in _THEMES) {
+							var nivo=them.split('_')[1];
+							if (themes_ini[nivo-1].length>0) {
+								for (var k=0;k<themes_ini[nivo-1].length;k++) {
+									var posi=getIdPos(nivo,themes_ini[nivo-1][k]);
+									if (posi>=0) {
+										jCof("#the_"+nivo+"_"+posi).addClass("selected");									
+										}
+									}
+								themes_ini[nivo-1]=[];
+								clickThema0(nivo);								
+								}
+							}
+						}
+					_lastModified++;
+					jCof("#allblocks").show();
+					}
+				});
+			}
+		else {
+			_lastModified++;
+			jCof("#divrrs").show();
+			jCof("#allblocks").hide();
+			jCof("#filtregeo").hide();
+			}
+		}
+
+
+
+	function changeRegCode() {
+
+		var activ=jCof("#activite").val();
+		var acti=activ.split('|')[0];					
+
+		var geogr=activ.split('|')[1];						
+		var regcode=-1;
+		if (geogr==1) regcode=jCof("#choose_reg_code").val();
+
+		jQuery.ajax({
+			type: 'POST',
+			url: '/site/content/french/pages/easysearch/ajax/recalc_themes.php',
+			data: "acti="+acti+"&regcode="+regcode+"&conds="+encodeURIComponent(JSON.stringify(_CONDS)),
+			async: true,
+			dataType: "text",
+			success: function (reps) {
+				var rept=eval("(" + reps + ")");
+				if (rept["code"]>=0) {
+					var themes=rept["themes"];
+
+					for(var propt in themes){
+						var level=propt.split('_')[1];
+						var theme=themes[propt];
+//						alert(level+'='+theme.length+","+jCof("#level_"+level+" div.thema").length);
+						jCof("#level_"+level+" div.thema").each(function(index) {
+							var divthe=jCof(this);
+							if (theme[index].nb==0) divthe.addClass("vide");
+							else divthe.removeClass("vide");
+							var txt=divthe.text();
+							var posi=txt.indexOf(')');
+							txt="<div class=nbtheme>("+theme[index].nb+")</div>"+txt.substr(posi+1);
+							divthe.html(txt);
+							});
+						}
+					}
+				_lastModified++;
+				}
+			});
+		}
+
+
+	var acti_ini="";
+	var themes_ini=[[],[],[],[]];
+		var ets_ini={};
+	
+
+	function readyDecale() {
+		// Pour gérer les history back
+			var allblocks_html=jCof("#saved_allblocks").val();
+			if (allblocks_html=="") {
+
+				jCof("#filtregeo").hide();
+				jCof("#allblocks").hide();			
+				if (acti_ini!='') {
+					changeActivite();
+					}
+				}
+			else {
+
+				jCof("#filtregeo").hide();
+
+				jCof("#allblocks").html(allblocks_html);
+				jCof("#affresult").html(jCof("#saved_affresult").val());
+				jCof("#affresult").show();
+				jCof(".thema").unbind("click",clickThema);
+				jCof(".thema").click(clickThema);
+				jCof(".rbET input").change(function() {_lastModified++;});
+
+				var jsVars=eval("(" + jCof("#saved_vars").val() + ')');
+				if (typeof(jsVars["_THEMES"])!="undefined") _THEMES=jsVars["_THEMES"];
+				if (typeof(jsVars["_CONDS"])!="undefined") _CONDS=jsVars["_CONDS"];
+				if (typeof(jsVars["_LIBELS"])!="undefined") _LIBELS=jsVars["_LIBELS"];
+				if (typeof(jsVars["_geogr"])!="undefined") _geogr=jsVars["_geogr"];else _geogr=1;
+				if (_geogr==1) jCof("#filtregeo").show(); else jCof("#filtregeo").hide();
+
+				if (typeof(jsVars["ETS"])!="undefined") {
+					for (var i=0;i<4;i++) if (jsVars["ETS"][i]==1) jCof("#rbET_"+(i+1)+"_2").attr('checked','checked');						
+					}
+				_lastModified=1;
+
+				}
+			jCof("#choose_reg_code").change(changeRegCode);
+			setInterval(afficheNbResultats,1000);
+	}
+	
+	
+	jCof(document).ready( function () {
+			jCof(window).unload(function(){});
+			jCof.modal.close();
+
+			
+/* Ajouter une otion "Je ne sais pas", tester si elle n'existe pas déjà
+jCof("#activite").append("<option style=\"color:red;\">Je ne sais pas</option>");
+*/
+
+			jCof(".col-main-menu").hide();
+/*			jCof("#col-left").hide();
+			jCof(".besides-menu").css('width','910px');
+			jCof("#col-main").css('width','945px');	*/
+jCof(".besides-menu").css('width','800px');			setTimeout(readyDecale,200);//opera sinon les input ne sont pas pré-remplis
+		   	});
+</script>
+
+<h2 class=in-hexagon>Recherche avancée</h2>
+
+<span class="choixacti has-tooltip" >Choisissez le secteur d'activité :<div class=tooltip style="width:420px;"><div class=arrow></div>Activités d’évaluation de la conformité : Essais, Etalonnage, Inspection, Certifications, Producteurs de Matériaux de Référence et Organisateurs de Comparaisons Inter Laboratoires<br/>
+Secteur particulier : Santé Humaine (dont Biologie Médicale)
+</div> </span><select name="activite" id="activite"  style="border: 1px solid lightgrey" onchange="changeActivite();"><option></option><option value="ESSAIS|1">Essais</option><option value="ETAL|1">Etalonnage</option><option value="INSP|0">Inspection</option><option value="VV|0">Validation et vérification</option><option value="PMR|1">Producteurs de Matériaux de Référence</option><option value="SH|1">Santé humaine</option><option value="OCIL|1">Organisateurs de Comparaison Inter Laboratoires</option><option value="CERTPE|0">Certification de personnes (ISO/IEC 17024)</option><option value="CERTPS|0">Certification de produits et services (ISO/IEC 17065)</option><option value="CERTSM|0">Certification de systèmes de management (ISO/IEC 17021-1)</option></select><br/>
+<div id=filtregeo class=bottomdotted><br/><span class="choixacti">Choisissez un secteur géographique : </span><select name="choose_reg_code" id="choose_reg_code" style="font-size:8pt;">
+<option value="-1"  > Aucun filtre</option>
+<option value="1"  > DOM-TOM-POM</option>
+<option style="color:#009ee0;" value="1x971"  >  (971) Guadeloupe</option>
+<option style="color:#009ee0;" value="1x973"  >  (973) Guyane</option>
+<option style="color:#009ee0;" value="1x974"  >  (974) La Réunion</option>
+<option style="color:#009ee0;" value="1x972"  >  (972) Martinique</option>
+<option style="color:#009ee0;" value="1x976"  >  (976) Mayotte</option>
+<option style="color:#009ee0;" value="1x988"  >  (988) Nouvelle-Calédonie</option>
+<option style="color:#009ee0;" value="1x987"  >  (987) Polynésie Française</option>
+<option style="color:#009ee0;" value="1x975"  >  (975) St-Pierre-et-Miquelon</option>
+<option style="color:#009ee0;" value="1x984"  >  (984) Terres-Australes et Antarctiques</option>
+<option style="color:#009ee0;" value="1x986"  >  (986) Wallis-et-Futuna</option>
+<option value="0"  > Auvergne-Rhône-Alpes
+</option>
+<option style="color:#009ee0;" value="0x01"  >  (01) Ain</option>
+<option style="color:#009ee0;" value="0x03"  >  (03) Allier</option>
+<option style="color:#009ee0;" value="0x07"  >  (07) Ardèche</option>
+<option style="color:#009ee0;" value="0x15"  >  (15) Cantal</option>
+<option style="color:#009ee0;" value="0x26"  >  (26) Drôme</option>
+<option style="color:#009ee0;" value="0x43"  >  (43) Haute-Loire</option>
+<option style="color:#009ee0;" value="0x74"  >  (74) Haute-Savoie</option>
+<option style="color:#009ee0;" value="0x38"  >  (38) Isère</option>
+<option style="color:#009ee0;" value="0x42"  >  (42) Loire</option>
+<option style="color:#009ee0;" value="0x63"  >  (63) Puy-de-Dôme</option>
+<option style="color:#009ee0;" value="0x69"  >  (69) Rhône</option>
+<option style="color:#009ee0;" value="0x73"  >  (73) Savoie</option>
+<option value="2"  > Bourgogne-Franche-Comté
+</option>
+<option style="color:#009ee0;" value="2x21"  >  (21) Côte-d'Or</option>
+<option style="color:#009ee0;" value="2x25"  >  (25) Doubs</option>
+<option style="color:#009ee0;" value="2x70"  >  (70) Haute-Saône</option>
+<option style="color:#009ee0;" value="2x39"  >  (39) Jura</option>
+<option style="color:#009ee0;" value="2x58"  >  (58) Nièvre</option>
+<option style="color:#009ee0;" value="2x71"  >  (71) Saône-et-Loire</option>
+<option style="color:#009ee0;" value="2x90"  >  (90) Territoire de Belfort</option>
+<option style="color:#009ee0;" value="2x89"  >  (89) Yonne</option>
+<option value="3"  > Bretagne</option>
+<option style="color:#009ee0;" value="3x22"  >  (22) Côtes-d'Armor</option>
+<option style="color:#009ee0;" value="3x29"  >  (29) Finistère</option>
+<option style="color:#009ee0;" value="3x35"  >  (35) Ille-et-Vilaine</option>
+<option style="color:#009ee0;" value="3x56"  >  (56) Morbihan</option>
+<option value="4"  > Centre-Val de Loire
+</option>
+<option style="color:#009ee0;" value="4x18"  >  (18) Cher</option>
+<option style="color:#009ee0;" value="4x28"  >  (28) Eure-et-Loir</option>
+<option style="color:#009ee0;" value="4x36"  >  (36) Indre</option>
+<option style="color:#009ee0;" value="4x37"  >  (37) Indre-et-Loire</option>
+<option style="color:#009ee0;" value="4x41"  >  (41) Loir-et-Cher</option>
+<option style="color:#009ee0;" value="4x45"  >  (45) Loiret</option>
+<option value="5"  > Corse
+</option>
+<option style="color:#009ee0;" value="5x2A"  >  (2A) Corse-du-Sud</option>
+<option style="color:#009ee0;" value="5x2B"  >  (2B) Haute-Corse</option>
+<option value="6"  > Grand-Est
+</option>
+<option style="color:#009ee0;" value="6x08"  >  (08) Ardennes</option>
+<option style="color:#009ee0;" value="6x10"  >  (10) Aube</option>
+<option style="color:#009ee0;" value="6x67"  >  (67) Bas-Rhin</option>
+<option style="color:#009ee0;" value="6x68"  >  (68) Haut-Rhin</option>
+<option style="color:#009ee0;" value="6x52"  >  (52) Haute-Marne</option>
+<option style="color:#009ee0;" value="6x51"  >  (51) Marne</option>
+<option style="color:#009ee0;" value="6x54"  >  (54) Meurthe-et-Moselle</option>
+<option style="color:#009ee0;" value="6x55"  >  (55) Meuse</option>
+<option style="color:#009ee0;" value="6x57"  >  (57) Moselle</option>
+<option style="color:#009ee0;" value="6x88"  >  (88) Vosges</option>
+<option value="7"  > Hauts-de-France
+</option>
+<option style="color:#009ee0;" value="7x02"  >  (02) Aisne</option>
+<option style="color:#009ee0;" value="7x59"  >  (59) Nord</option>
+<option style="color:#009ee0;" value="7x60"  >  (60) Oise</option>
+<option style="color:#009ee0;" value="7x62"  >  (62) Pas-de-Calais</option>
+<option style="color:#009ee0;" value="7x80"  >  (80) Somme</option>
+<option value="8"  > Ile-de-France
+</option>
+<option style="color:#009ee0;" value="8x91"  >  (91) Essonne</option>
+<option style="color:#009ee0;" value="8x92"  >  (92) Hauts-de-Seine</option>
+<option style="color:#009ee0;" value="8x75"  >  (75) Paris</option>
+<option style="color:#009ee0;" value="8x77"  >  (77) Seine-et-Marne</option>
+<option style="color:#009ee0;" value="8x93"  >  (93) Seine-St-Denis</option>
+<option style="color:#009ee0;" value="8x95"  >  (95) Val-d'Oise</option>
+<option style="color:#009ee0;" value="8x94"  >  (94) Val-de-Marne</option>
+<option style="color:#009ee0;" value="8x78"  >  (78) Yvelines</option>
+<option value="9"  > Normandie
+</option>
+<option style="color:#009ee0;" value="9x14"  >  (14) Calvados</option>
+<option style="color:#009ee0;" value="9x27"  >  (27) Eure</option>
+<option style="color:#009ee0;" value="9x50"  >  (50) Manche</option>
+<option style="color:#009ee0;" value="9x61"  >  (61) Orne</option>
+<option style="color:#009ee0;" value="9x76"  >  (76) Seine-Maritime</option>
+<option value="10"  > Nouvelle-Aquitaine
+</option>
+<option style="color:#009ee0;" value="10x16"  >  (16) Charente</option>
+<option style="color:#009ee0;" value="10x17"  >  (17) Charente-Maritime</option>
+<option style="color:#009ee0;" value="10x19"  >  (19) Corrèze</option>
+<option style="color:#009ee0;" value="10x23"  >  (23) Creuse</option>
+<option style="color:#009ee0;" value="10x79"  >  (79) Deux-Sèvres</option>
+<option style="color:#009ee0;" value="10x24"  >  (24) Dordogne</option>
+<option style="color:#009ee0;" value="10x33"  >  (33) Gironde</option>
+<option style="color:#009ee0;" value="10x87"  >  (87) Haute-Vienne</option>
+<option style="color:#009ee0;" value="10x40"  >  (40) Landes</option>
+<option style="color:#009ee0;" value="10x47"  >  (47) Lot-et-Garonne</option>
+<option style="color:#009ee0;" value="10x64"  >  (64) Pyrénées-Atlantique</option>
+<option style="color:#009ee0;" value="10x86"  >  (86) Vienne</option>
+<option value="11"  > Occitanie
+</option>
+<option style="color:#009ee0;" value="11x09"  >  (09) Ariège</option>
+<option style="color:#009ee0;" value="11x11"  >  (11) Aude</option>
+<option style="color:#009ee0;" value="11x12"  >  (12) Aveyron</option>
+<option style="color:#009ee0;" value="11x30"  >  (30) Gard</option>
+<option style="color:#009ee0;" value="11x32"  >  (32) Gers</option>
+<option style="color:#009ee0;" value="11x31"  >  (31) Haute-Garonne</option>
+<option style="color:#009ee0;" value="11x65"  >  (65) Hautes-Pyrénées</option>
+<option style="color:#009ee0;" value="11x34"  >  (34) Hérault</option>
+<option style="color:#009ee0;" value="11x46"  >  (46) Lot</option>
+<option style="color:#009ee0;" value="11x48"  >  (48) Lozère</option>
+<option style="color:#009ee0;" value="11x66"  >  (66) Pyrénées-Orientales</option>
+<option style="color:#009ee0;" value="11x81"  >  (81) Tarn</option>
+<option style="color:#009ee0;" value="11x82"  >  (82) Tarn-et-Garonne</option>
+<option value="12"  > Pays de la Loire
+</option>
+<option style="color:#009ee0;" value="12x44"  >  (44) Loire-Atlantique</option>
+<option style="color:#009ee0;" value="12x49"  >  (49) Maine-et-Loire</option>
+<option style="color:#009ee0;" value="12x53"  >  (53) Mayenne</option>
+<option style="color:#009ee0;" value="12x72"  >  (72) Sarthe</option>
+<option style="color:#009ee0;" value="12x85"  >  (85) Vendée</option>
+<option value="13"  > Provence-Alpes-Côte d'Azur
+</option>
+<option style="color:#009ee0;" value="13x04"  >  (04) Alpes-de-Haute-Provence</option>
+<option style="color:#009ee0;" value="13x06"  >  (06) Alpes-Martimes</option>
+<option style="color:#009ee0;" value="13x13"  >  (13) Bouches-du-Rhône</option>
+<option style="color:#009ee0;" value="13x05"  >  (05) Hautes-Alpes</option>
+<option style="color:#009ee0;" value="13x83"  >  (83) Var</option>
+<option style="color:#009ee0;" value="13x84"  >  (84) Vaucluse</option>
+<option value="ETR"  > PAYS ETRANGERS</option></select></div>
+<br/>
+
+<div id="divrrs">
+<a href="/fr/easysearch/rrs.php">Suspensions, résiliations et retraits d’accréditation</a><br/>
+<a href="https://www.cofrac.fr/organismes-accredites-pour-le-reglement-dexecution-ue-20182067">Organismes accrédités pour le Règlement d’exécution (UE) 2018/2067</a><br/>
+</div>
+
+<div id=allblocks>
+<div class=bottomdotted>
+	<div class=leveldesc></div>
+	<div class=levelblock>
+		<div style="direction:ltr;padding:5px;" class=levelblockinside id="level_1"></div>
+	</div>
+</div>
+<br/>	
+<div class=bottomdotted>
+	<div class=leveldesc></div>		
+	<div class=levelblock>
+	<div style="direction:ltr;padding:5px;" class=levelblockinside id="level_2"></div>
+	</div>
+</div>
+<br/>
+<div class=bottomdotted>
+	<div class=leveldesc></div>		
+	<div class=levelblock>
+	<div style="direction:ltr;padding:5px;" class=levelblockinside id="level_3"></div>
+	</div>
+</div>
+<br/>
+<div class=bottomdotted>
+	<div class=leveldesc></div>		
+	<div class=levelblock>
+	<div style="direction:ltr;padding:5px;" class=levelblockinside id="level_4"></div>
+	</div>
+</div>
+</div>
+
+<br/>
+<div id=affresult style="display:none;"><input type="button" class="advanced-button" style="float:left;" value="Afficher les résultats" id="afficheadvanced" onclick="afficheResultats();"> <div class="affres"><div class=arrow-left-res></div><div style="float:left;" id=nbres></div></div></div>
+
+
+<form method=POST action="/fr/easysearch/resultats_advanced.php" id=form_resultats onsubmit="return false;" style="display:none;">
+<input type=hidden value="" name="ets" id="aff_ets"/>
+<input type=hidden value="" name="ids" id="aff_ids"/>
+<input type=hidden value="" name="acti" id="aff_acti"/>
+<input type=hidden value="" name="regcode" id="aff_regcode"/>
+</form>
+
+
+<div style="display: none">
+    <input type=text value="" id="saved_allblocks">
+</div>
+<div style="display: none">
+    <input type=text value="" id="saved_vars">
+</div>
+
+<div style="display: none">
+    <input type=text value="" id="saved_affresult">
+</div>
+
+
+<div id="confirm">
+    <div id="confirm-inside"></div>
+    <div>
+        <center><a class="simplemodal-close small-button" href="#">OK</a></center>
+    </div>
+</div>
+
+<div id="alert">
+    <div id="alert-inside"></div>    
+</div></div><div class=clear></div>
+                    
+                                        <span class="corners-bottom"><span></span></span></div>
+            </div>
+
+        
+        <div class="clear"></div>
+
+    </div>
+
+    </div>
+</div>
+
+        </main>
+        <footer role="contentinfo" class="z-2 position-relative">
+            
+                
+    <div class="container">
+        <div class="row footer-top">
+            <div class="blocAddress col-lg-5 col-12">
+                
+                    <div class="slogan text-center text-lg-start">
+                        Une histoire de confiance
+                    </div>
+                    <div class="address py-4 d-flex align-items-end justify-content-center justify-content-lg-start">
+                        <div class="logo float-start me-4">
+                            <a href="https://www.cofrac.fr/" target="_top" class="cofrac-logo">
+                                <img src="https://www.cofrac.fr/_assets/vite/assets/logo-blanc-sHAhBAIf.svg"
+                                     alt="" class="d-block"/>
+                            </a>
+                        </div>
+                        <p class="addressContent m-0">
+                            52 rue Jacques Hillairet<br />
+75012 Paris<br />
+Tél. : +33 (0)1 44 68 82 20
+                        </p>
+                    </div>
+                
+            </div>
+            <div class="blocMenu col-lg-7 d-none d-lg-block">
+                
+                    <ul class="nav flex-column h-100 float-start">
+                        
+                            <li class="nav-item pe-4">
+                                
+    <a href="https://www.cofrac.fr/laccreditation" class="nav-link" title="L&#039;accréditation">
+                                    L&#039;accréditation
+                                </a>
+
+                            </li>
+                        
+                            <li class="nav-item pe-4">
+                                
+    <a href="https://www.cofrac.fr/domaines-dapplication" class="nav-link" title="Domaines d&#039;application">
+                                    Domaines d&#039;application
+                                </a>
+
+                            </li>
+                        
+                            <li class="nav-item pe-4">
+                                
+    <a href="https://www.cofrac.fr/nos-services" class="nav-link" title="Nos services">
+                                    Nos services
+                                </a>
+
+                            </li>
+                        
+                            <li class="nav-item pe-4">
+                                
+    <a href="https://www.cofrac.fr/a-propos-du-cofrac" class="nav-link" title="Le Cofrac">
+                                    Le Cofrac
+                                </a>
+
+                            </li>
+                        
+                            <li class="nav-item pe-4">
+                                
+    <a href="https://www.cofrac.fr/actualites" class="nav-link" title="Actualités et évènements">
+                                    Actualités et évènements
+                                </a>
+
+                            </li>
+                        
+                        
+                    </ul>
+                
+                    <ul class="nav flex-column h-100">
+                        
+                            <li class="nav-item pe-4">
+                                
+    <a href="https://tools.cofrac.fr/fr/documentation" class="nav-link" target="_blank" title="Espace documentaire (nouvelle fenêtre)">
+                                    Espace documentaire
+                                </a>
+
+                            </li>
+                        
+                        
+                            <li class="divider my-3"></li>
+                            <div class="d-flex">
+                                <a href="https://cofracandco.cofrac.fr/login" title="Connexion (nouvelle fenêtre)" target="_blank" class="btn btn-primary btn-connect btn-sm d-flex gap-1 align-items-center" rel="noreferrer">
+                                    Connexion
+                                </a>
+                            </div>
+                        
+                    </ul>
+                
+            </div>
+            <div class="mx-auto w-auto d-flex d-lg-none">
+                <a href="https://cofracandco.cofrac.fr/login" title="Connexion (nouvelle fenêtre)" target="_blank" class="btn btn-primary btn-connect btn-lg m-auto d-flex gap-1 mt-0" rel="noreferrer">
+                    Connexion
+                </a>
+            </div>
+        </div>
+    </div>
+    <hr class="m-0 p-0"/>
+    <div class="container">
+        <div class="row footer-bottom">
+            <div class="blocSocialNetwork col-lg-3 col-12 d-flex">
+                
+                    <div class="text-uppercase m-auto">
+                        Nos réseaux
+                    </div>
+                    <div class="icons d-flex m-auto">
+                        
+                            <a href="https://www.linkedin.com/company/cofrac/" target="_blank" class="icon icon-linkedin"
+                               title="LinkedIn (nouvelle fenêtre)"></a>
+                        
+                            <a href="https://twitter.com/Cofrac_officiel" target="_blank" class="icon icon-twitter"
+                               title="X (nouvelle fenêtre)"></a>
+                        
+                            <a href="https://www.youtube.com/channel/UCOMt-WqcVQ9jZjQZGiIqCWQ" target="_blank" class="icon icon-youtube"
+                               title="Youtube (nouvelle fenêtre)"></a>
+                        
+                    </div>
+                
+            </div>
+            <div class="blocMenuAnnexe col-lg-9 d-none d-lg-block">
+                <ul class="nav flex-column flex-lg-row align-items-lg-center justify-content-lg-end h-100">
+                    
+                        <li class="nav-item">
+                            
+    <a href="https://www.cofrac.fr/liens-utiles" class="nav-link d-lg-inline-block py-lg-1 px-lg-0" title="Liens utiles">
+                                Liens utiles
+                            </a>
+
+                        </li>
+                    
+                        <li class="nav-item">
+                            
+    <a href="https://www.cofrac.fr/contact/nous-contacter" class="nav-link d-lg-inline-block py-lg-1 px-lg-0" title="Contact">
+                                Contact
+                            </a>
+
+                        </li>
+                    
+                        <li class="nav-item">
+                            
+    <a href="https://www.cofrac.fr/laccreditation/faq/les-3-questions-les-plus-frequentes" class="nav-link d-lg-inline-block py-lg-1 px-lg-0" title="FAQ">
+                                FAQ
+                            </a>
+
+                        </li>
+                    
+                        <li class="nav-item">
+                            
+    <a href="https://www.cofrac.fr/mentions-legales" class="nav-link d-lg-inline-block py-lg-1 px-lg-0" title="Mentions légales">
+                                Mentions légales
+                            </a>
+
+                        </li>
+                    
+                        <li class="nav-item">
+                            
+    <a href="https://www.cofrac.fr/protection-des-donnees" class="nav-link d-lg-inline-block py-lg-1 px-lg-0" title="Protection des données">
+                                Protection des données
+                            </a>
+
+                        </li>
+                    
+                        <li class="nav-item">
+                            
+    <a href="https://www.cofrac.fr/cookies" class="nav-link d-lg-inline-block py-lg-1 px-lg-0" title="Cookies">
+                                Cookies
+                            </a>
+
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+
+            
+        </footer>
+    </div>
+</div><script src="https://www.cofrac.fr/typo3temp/assets/compressed/merged-6c75f8444821961beb43338fbbf3eee2-51804505710df096f7388c23ea4170ed.js?1729708933"></script>
+<script type="module" src="https://www.cofrac.fr/_assets/vite/assets/cofrac-VUsr73kI.js?1725463785"></script>
+</body>
+</html>
